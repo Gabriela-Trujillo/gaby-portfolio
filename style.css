@@ -1,0 +1,31 @@
+.row{   
+
+    background-color: #FF9999;
+    color:white;
+    font-size:20px;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:white;
+    color:Pink;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+    text-align: center;
+    font-family: "Pacifico";
+}
+.aboutme{
+    border:1px solid black;  
+     text-align: center;
+}
+
+.footer {
+    display:flex;
+    justify-content: space-around;
+}
+
+
